@@ -2,7 +2,6 @@
 Simple LED Blink Program to verify system functioning 
 
 ## Config
-- GPIO
 - RCC
     - HSE: Crystal Resonator 25MHz
 - GPIO
