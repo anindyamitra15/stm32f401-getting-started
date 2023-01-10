@@ -1,7 +1,7 @@
 # Getting started with STM32F401
 
 ## Introduction
-This is a repository where multiple features of STM32f401 are demonstrated with the help of simple projects.
+This is a repository where various features of STM32f401 are demonstrated with the help of simple projects. All the projects are developed for [Black Pill](https://stm32-base.org/boards/STM32F401CCU6-WeAct-Black-Pill-V1.2.html), based on STM32F401CCU6.
 ## Contents
 ```
 |_ blink-timer-interrupt
