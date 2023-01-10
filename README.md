@@ -1,7 +1,7 @@
 # Getting started with STM32F401
 
 ## Introduction
-This is a repository where features of STM32f401 is demonstrated with the help of simple, easy to implement projects.
+This is a repository where multiple features of STM32f401 are demonstrated with the help of simple projects.
 ## Contents
 ```
 |_ blink-timer-interrupt
