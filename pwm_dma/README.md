@@ -14,7 +14,7 @@ DMA PWM based LED breathing/fading effect.
     - DMA 5 global interrupt
 - Timer: TIM2 (32bit)
     - Clock Source: Internal Clock
-    - Channel 1: Output Compare CH1
+    - Channel 1: PWM generation CH1
     - Prescaler: 105 (16 bit)
     - Auto Reload Register: 10000 (32 bit)
     - auto-reload-preload: Enable
