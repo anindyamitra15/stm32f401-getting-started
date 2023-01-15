@@ -18,3 +18,9 @@ This is a repository where various features of STM32f401 are demonstrated with t
 
 4. [sPWM Push Pull Mode](./sPWM-2/): Push pull mode 50Hz sPWM (sinusoidal PWM) generation using DMA transferred PWM. Useful for building a basic sPWM inverter circuit which can work in a push-pull (saving on the number of FETs, double-ended push-pull vs h-bridge switching, which are the main types of switching used in UPSs) mode and can generate a sine wave of 50Hz
 <br/>![Demo-sPWM-2](./sPWM-2/Results/Demo.gif)<br/>
+
+<hr>
+
+## Other experiments:
+
+Also checkout my work with STM32F1: [STM32F103 RTOS](https://github.com/anindyamitra15/stm32-rtos), [STM32F103 UART](https://github.com/anindyamitra15/stm32-uart) and, [STM32 GPIO Alternate Functions](https://github.com/anindyamitra15/stm32-gpio-modes)
