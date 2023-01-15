@@ -23,4 +23,4 @@ This is a repository where various features of STM32F401 are demonstrated with t
 
 ## Other experiments:
 
-Also checkout my work with STM32F1: [STM32F103 RTOS](https://github.com/anindyamitra15/stm32-rtos), [STM32F103 UART](https://github.com/anindyamitra15/stm32-uart) and, [STM32 GPIO Alternate Functions](https://github.com/anindyamitra15/stm32-gpio-modes)
+Also checkout my work with STM32F1: [STM32F103 RTOS](https://github.com/anindyamitra15/stm32-rtos), [STM32F103 UART](https://github.com/anindyamitra15/stm32-uart), [STM32F1 GPIO Alternate Functions](https://github.com/anindyamitra15/stm32-gpio-modes) and, [STM32F1 PWM Modes]()
